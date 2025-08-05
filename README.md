@@ -4,8 +4,8 @@ This Power BI dashboard project provides a visual analysis of academic performan
 
 ---
 
-<img src="![student performance dashboard](https://github.com/user-attachments/assets/70fbba1b-218c-4ccb-b88c-c9125236546b)
-" alt="Student Dashboard Preview" width="800"/>
+<img src="![WhatsApp Image 2025-08-05 at 20 33 46_572f089c](https://github.com/user-attachments/assets/d980f4b3-2e80-48cc-823e-403c26519f76)
+" alt="Dashboard Preview" width="600"/>
 
 ---
 
