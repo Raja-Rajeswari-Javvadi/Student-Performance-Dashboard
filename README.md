@@ -60,10 +60,10 @@ This dashboard can be used by:
 
 ## 👩‍💻 Created by
 
-**Your Name**  
-Final Year B.Tech Student | Power BI Enthusiast  
-📧 [Your Email]  
-🌐 [Portfolio or LinkedIn link]
+**Raja Rajeswari Javvadi**  
+Final Year B.Tech Student | Data Analytics Enthusiasist  
+📧 [rajeswari.javvadi@sasi.ac.in]  
+🌐 [https://www.linkedin.com/in/raja-rajeswari-javvadi3/]
 
 ---
 
