@@ -1,26 +1,70 @@
-Student Performance Dashboard - Power BI
+# 📊 Student Performance Dashboard | Power BI Project
 
-This Power BI dashboard provides insights into the academic performance of students across various classes and grades.
-![Dashboard Preview](![student performance dashboard](https://github.com/user-attachments/assets/28f57de0-33a0-4534-ae90-663d4dfa37c4)
-)
-
-
-## 📊 Features
-- Total Students and Average GPA KPIs
-- Class-wise GPA Distribution
-- Gender and Grade-wise Student Distribution
-- Interactive filters for Class, Grade, and Gender
-- Pass Rate and Attendance analysis
-
-## 📁 Files
-- `StudentDashboard.pbix` – Power BI project file
-- `dashboard.png` – Screenshot of the final dashboard
-
-## 📌 Tools Used
-- Microsoft Power BI
-- DAX for calculated fields and KPIs
+This Power BI dashboard project provides a visual analysis of academic performance across different classes, grades, and genders. It's an interactive and insightful tool for tracking GPA trends, student counts, and attendance across the institution.
 
 ---
 
-### 👩‍💻 Created by: *Raja Rajeswari Javvadi*
+<img src="![student performance dashboard](https://github.com/user-attachments/assets/70fbba1b-218c-4ccb-b88c-c9125236546b)
+" alt="Student Dashboard Preview" width="800"/>
+
+---
+
+## 🔍 Features
+
+- 🎯 **KPIs:** Total Students, Average GPA, Pass Rate
+- 📈 **Visuals:** 
+  - Bar chart showing GPA by class
+  - Donut chart of students by grade
+  - Attendance analysis
+- 🎛️ **Interactive Filters:** 
+  - By Class, Grade (range slider), and Gender
+- 📋 **Data Fields Used:** Class, Grade, Gender, GPA, Attendance Rate
+
+---
+
+## 📁 Project Files
+
+- `StudentDashboard.pbix` – Power BI report file
+- `dashboard.png` – Screenshot of the final dashboard
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI Desktop**
+- **DAX** for calculated fields like:
+  - Average GPA
+  - Pass Rate
+- Data Cleaning & Model Relationships within Power BI
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download the repository
+2. Open `StudentDashboard.pbix` in Power BI Desktop
+3. Interact with filters and visuals
+4. Modify dataset or visuals as needed
+
+---
+
+## 📌 Use Case
+
+This dashboard can be used by:
+- School administrators for academic monitoring
+- Data analysts to explore educational data
+- Students as a resume project to showcase Power BI skills
+
+---
+
+## 👩‍💻 Created by
+
+**Your Name**  
+Final Year B.Tech Student | Power BI Enthusiast  
+📧 [Your Email]  
+🌐 [Portfolio or LinkedIn link]
+
+---
+
+> ⭐ _If you like this project, feel free to star this repo and fork it!_
 
