@@ -1,6 +1,9 @@
-# Student Performance Dashboard - Power BI
+![WhatsApp Image 2025-08-05 at 20 33 46_efc94d16](https://github.com/user-attachments/assets/0b797c42-eebd-484b-9015-038b3b93ed12)# Student Performance Dashboard - Power BI
 
 This Power BI dashboard provides insights into the academic performance of students across various classes and grades.
+![Dashboard Preview](![student performance dashboard](https://github.com/user-attachments/assets/28f57de0-33a0-4534-ae90-663d4dfa37c4)
+)
+
 
 ## 📊 Features
 - Total Students and Average GPA KPIs
